@@ -9,3 +9,4 @@ hasCJKLanguage = true
 languageCode = 'ja-JP'
 timeZone = 'Asia/Tokyo'
 title = '#times-warashi'
+sectionPagesMenu = 'main'
