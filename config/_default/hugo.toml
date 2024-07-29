@@ -1,0 +1,11 @@
+canonifyURLs = true
+cleanDestinationDir = true
+copyright = '© 2024 Copyright warashi'
+defaultContentLanguage = 'ja'
+enableEmoji = true
+enableGitInfo = false
+enableInlineShortcodes = true
+hasCJKLanguage = true
+languageCode = 'ja-JP'
+timeZone = 'Asia/Tokyo'
+title = '#times-warashi'

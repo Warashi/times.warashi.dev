@@ -1,0 +1,18 @@
+[goldmark]
+[goldmark.renderer]
+hardWraps = true
+unsafe = true
+
+[goldmark.extensions]
+[goldmark.extensions.cjk]
+enable = true
+eastAsianLineBreaks = true
+escapedSpace = true
+
+[highlight]
+anchorLineNos = true
+codeFences = true
+guessSyntax = true
+lineNos = true
+tabWidth = 2
+style = 'catppuccin-frappe'
