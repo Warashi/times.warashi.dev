@@ -8,5 +8,5 @@ enableInlineShortcodes = true
 hasCJKLanguage = true
 languageCode = 'ja-JP'
 timeZone = 'Asia/Tokyo'
-title = '#times-warashi'
+title = '#times'
 sectionPagesMenu = 'main'

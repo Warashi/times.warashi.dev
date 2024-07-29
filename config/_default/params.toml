@@ -3,4 +3,4 @@ ShowCopyright = true
 RSSEnabled = true
 EnablePreferredDarkAppearance = true
 RSSMicropostTitles = false
-mainSections = [ "microposts" ]
+mainSections = []
