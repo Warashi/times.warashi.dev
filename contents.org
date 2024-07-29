@@ -10,11 +10,3 @@
 :END:
 
 timesの雛形ができた。更新作業が簡単になるように、org-captureの設定をしないといけないな
-
-* 2022-05-23T07:29:53+09:00
-:PROPERTIES:
-:EXPORT_DATE: 2022-05-23T07:29:53+09:00
-:EXPORT_FILE_NAME: 4e7c1d42-4fd7-454a-b7d9-002c306fc1c9
-:END:
-
-aaa
