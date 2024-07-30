@@ -18,3 +18,10 @@ timesの雛形ができた。更新作業が簡単になるように、org-captu
 :END:
 
 ~:after org~ してると :bind の定義も org の読み込み後になるのか。それは当然だな。
+* 2024-07-30T11:41:17+09:00
+:PROPERTIES:
+:EXPORT_DATE: 2024-07-30T11:41:17+09:00
+:EXPORT_FILE_NAME: 6e847ec5-1c93-43f1-83d6-4ce79a8b16ef
+:END:
+
+このファイルを保存したら勝手に git commit, push までやってくれるようにしないとだな
