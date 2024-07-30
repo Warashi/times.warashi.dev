@@ -10,3 +10,11 @@
 :END:
 
 timesの雛形ができた。更新作業が簡単になるように、org-captureの設定をしないといけないな
+
+* 2024-07-30T11:39:56+09:00
+:PROPERTIES:
+:EXPORT_DATE: 2024-07-30T11:39:56+09:00
+:EXPORT_FILE_NAME: eb934077-6fc7-49c5-a291-8397137e51df
+:END:
+
+~:after org~ してると :bind の定義も org の読み込み後になるのか。それは当然だな。
