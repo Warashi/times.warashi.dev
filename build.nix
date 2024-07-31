@@ -10,8 +10,7 @@
     contents = callPackage ({
       runCommand,
       emacsPackagesFor,
-      emacs-nox,
-      emacs ? emacs-nox
+      emacs,
     }:
       runCommand "contents" {
         src = ./contents.org;
