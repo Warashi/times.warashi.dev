@@ -2,6 +2,15 @@
 #+HUGO_AUTO_SET_LASTMOD: nil
 #+HUGO_LOCALE: ja
 
+* 2024-07-31T21:36:23+09:00
+:PROPERTIES:
+:EXPORT_DATE: 2024-07-31T21:36:23+09:00
+:EXPORT_FILE_NAME: b432e25a-f3ec-4af5-bd30-b16092100afd
+:END:
+
+org-capture を ~C-c o o~ で起動するようにしているんだけど、 このリポジトリを対象に ~magit-status~ を起動するのを ~C-c o g~ に割り当ててみた。
+自動コミットとプッシュじゃなくて、とりあえずこれで運用してみる
+
 * 2024-07-31T21:35:06+09:00
 :PROPERTIES:
 :EXPORT_DATE: 2024-07-31T21:35:06+09:00
