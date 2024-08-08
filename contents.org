@@ -2,6 +2,16 @@
 #+HUGO_AUTO_SET_LASTMOD: nil
 #+HUGO_LOCALE: ja
 
+* 2024-08-08T15:12:06+09:00
+:PROPERTIES:
+:EXPORT_DATE: 2024-08-08T15:12:06+09:00
+:EXPORT_FILE_NAME: 4bc09aff-4e43-4604-bffd-69abc0f3c75e
+:END:
+
+kkp.el を使いつつ Emacs を TUI で使っているけど、案外何とかなるな。
+tmux は Kitty Keyboard Protocol に対応していないので使っていないけど。
+emacs daemon を tmux の代わりに使っているフシはある
+
 * 2024-08-08T12:16:51+09:00
 :PROPERTIES:
 :EXPORT_DATE: 2024-08-08T12:16:51+09:00
