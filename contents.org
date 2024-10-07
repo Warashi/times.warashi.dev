@@ -2,6 +2,14 @@
 #+HUGO_AUTO_SET_LASTMOD: nil
 #+HUGO_LOCALE: ja
 
+* 2024-10-07T11:30:20+09:00
+:PROPERTIES:
+:EXPORT_DATE: 2024-10-07T11:30:20+09:00
+:EXPORT_FILE_NAME: 554f3b53-c8d8-4721-baad-a0fddfc970e4
+:END:
+
+適当にググって出てきたレシピでクッキーを焼くというのをこの週末にしていたんですが、結構な量のバターを入れることになって戦慄していました。焼き上がったクッキーは美味しかった。
+
 * 2024-10-02T11:07:22+09:00
 :PROPERTIES:
 :EXPORT_DATE: 2024-10-02T11:07:22+09:00
