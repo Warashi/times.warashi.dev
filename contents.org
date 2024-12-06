@@ -2,6 +2,14 @@
 #+HUGO_AUTO_SET_LASTMOD: nil
 #+HUGO_LOCALE: ja
 
+* 2024-11-29T11:07:26+09:00
+:PROPERTIES:
+:EXPORT_DATE: 2024-11-29T11:07:26+09:00
+:EXPORT_FILE_NAME: 9ecee5f1-5b07-4027-808c-0801ad055ec6
+:END:
+
+自分が過去に書いたコードをふと眺めてたらめちゃ 🍝 なコードを見かけてしまった。当然だがテストはない。
+
 * 2024-10-31T11:13:40+09:00
 :PROPERTIES:
 :EXPORT_DATE: 2024-10-31T11:13:40+09:00
@@ -49,13 +57,6 @@
 :END:
 
 デバッグする時に最小構成を作るところから始める癖が今日は役に立った
-* 2024-11-29T11:07:26+09:00
-:PROPERTIES:
-:EXPORT_DATE: 2024-11-29T11:07:26+09:00
-:EXPORT_FILE_NAME: 9ecee5f1-5b07-4027-808c-0801ad055ec6
-:END:
-
-自分が過去に書いたコードをふと眺めてたらめちゃ 🍝 なコードを見かけてしまった。当然だがテストはない。
 
 * 2024-08-18T09:27:23+09:00
 :PROPERTIES:
@@ -138,7 +139,6 @@ macOS上のEmacsでexec-path-fron-shellがおかしかったのを直せた
 :END:
 
 [[https://warashi.dev/posts/d979a10f-58e7-40d0-b86e-a52dd8b096ba/][ブログ記事]]書いたぞ
-
 
 * 2024-08-02T08:08:43+09:00
 :PROPERTIES:
