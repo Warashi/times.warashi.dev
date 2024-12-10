@@ -16,9 +16,6 @@ concurrency:
   group: "pages"
   cancel-in-progress: false
 
-env:
-  TZ: 'Asia/Tokyo'
-
 defaults:
   run:
     shell: bash
