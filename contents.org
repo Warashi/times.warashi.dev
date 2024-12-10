@@ -2,6 +2,15 @@
 #+HUGO_AUTO_SET_LASTMOD: nil
 #+HUGO_LOCALE: ja
 
+* 2024-12-10T11:39:10+00:00
+:PROPERTIES:
+:EXPORT_DATE: 2024-12-10T11:39:10+00:00
+:EXPORT_FILE_NAME: e7e58e2d-8006-4e2d-a7cd-6a41e4928123
+:END:
+
+個人の作業用インスタンスは Oracle Cloud Infrastructure を使わせてもらっているんだけど、プライベートサブネットに立てて普段のアクセスは Tailscale を使わせてもらっている。
+最初のセットアップだけ Bastion を使ってアクセスした。
+
 * 2024-12-10T11:36:23+00:00
 :PROPERTIES:
 :EXPORT_DATE: 2024-12-10T11:36:23+00:00
